@@ -1,6 +1,6 @@
 # Hello-World
 
-Hello, Eart!
+Hello, Earth!
 
 Has been a while since I've just left the planet and I'm out in space to train our spacial monkeys to be able for them to contribute saving our beloved planet.
 But I have a problem: I ran out of bananas, and here on other planets is just impossible to get them...
